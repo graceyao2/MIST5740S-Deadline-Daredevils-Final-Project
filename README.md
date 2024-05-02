@@ -23,11 +23,16 @@ The Binder contains:
 
 **Work Breakdown Structure:** 
 
-The work breakdown structure shows the group's tasks and their respective completion dates. It also shows who worked on each task and how long each task took.  
 [Daredevil_WBS .xlsx](https://github.com/graceyao2/MIST5740S-Deadline-Daredevils-Final-Project/files/15191302/Daredevil_WBS.xlsx)
+
+The work breakdown structure shows the group's tasks and their respective completion dates. It also shows who worked on each task and how long each task took.  
+
 
 
 **Class Presentation Slides:**
+
+[DawgTawkGPT.pptx](https://github.com/graceyao2/MIST5740S-Deadline-Daredevils-Final-Project/files/15190772/DawgTawkGPT.pptx)
+
 The final presentation slide contains the 
 1. Executive summary
 2. Expenses
@@ -35,10 +40,13 @@ The final presentation slide contains the
 4. Summary tasks
 5. Issues log
 6. Video of a demonstration of the prototype.
-[DawgTawkGPT.pptx](https://github.com/graceyao2/MIST5740S-Deadline-Daredevils-Final-Project/files/15190772/DawgTawkGPT.pptx)
+
 
 **Link to DawgTalkGPT prototype:**
-feel free to try out DawgTalkGPT! The link to our prototype is below. Note that only chatGPT Premium users can access it. 
+
 https://chat.openai.com/g/g-NZqtuw7aU-dawgtawkgpt 
+
+feel free to try out DawgTalkGPT! The link to our prototype is below. Note that only chatGPT Premium users can access it. 
+
 
 
