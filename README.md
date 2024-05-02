@@ -11,7 +11,7 @@
 
 **Work Breakdown Structure:** 
 
-**Class Presentation Slides: **
+**Class Presentation Slides:**
 [DawgTawkGPT.pptx](https://github.com/graceyao2/MIST5740S-Deadline-Daredevils-Final-Project/files/15190772/DawgTawkGPT.pptx)
 
 **Link to DawgTalkGPT prototype:**
