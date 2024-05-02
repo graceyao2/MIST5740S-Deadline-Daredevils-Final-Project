@@ -1,6 +1,6 @@
 # MIST5740S-Deadline-Daredevils-Final-Project
 
-<h6>**Team Members:**
+**Team Members:**
 1. Jordan Eccleston
 2. Nic Goodwin
 3. Sohum Rane
