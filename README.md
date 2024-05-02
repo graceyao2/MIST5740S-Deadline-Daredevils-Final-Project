@@ -8,7 +8,8 @@
 5. Dan Kerik
 
 **Project Binder:** 
-The Binder contains 
+
+The Binder contains: 
 1. Member names and phone numbers
 2. Project Proposal
 3. Project Scope
