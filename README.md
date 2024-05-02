@@ -27,7 +27,13 @@ The work breakdown structure shows the group's tasks and their respective comple
 
 
 **Class Presentation Slides:**
-The final presentation slide contains the executive summary, expenses, risk matrix, summary tasks, issues log, and a video of a demonstration of the prototype.
+The final presentation slide contains the 
+1. Executive summary
+2. Expenses
+3. Risk matrix
+4. Summary tasks
+5. Issues log
+6. Video of a demonstration of the prototype.
 [DawgTawkGPT.pptx](https://github.com/graceyao2/MIST5740S-Deadline-Daredevils-Final-Project/files/15190772/DawgTawkGPT.pptx)
 
 **Link to DawgTalkGPT prototype:**
