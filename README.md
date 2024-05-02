@@ -22,6 +22,7 @@ The Binder contains:
 10. Appendices (Work Breakdown Structure, Training Document, Demo) 
 
 **Work Breakdown Structure:** 
+
 The work breakdown structure shows the group's tasks and their respective completion dates. It also shows who worked on each task and how long each task took.  
 [Daredevil_WBS .xlsx](https://github.com/graceyao2/MIST5740S-Deadline-Daredevils-Final-Project/files/15191302/Daredevil_WBS.xlsx)
 
